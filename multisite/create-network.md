@@ -1,3 +1,4 @@
+![IMG_20240831_194319768](https://github.com/user-attachments/assets/46450514-c459-4c23-8f2d-64a2556d3e64)
 # Create A Network
 
 You have the ability to create a [network](https://wordpress.org/documentation/article/glossary/#network) of [sites](https://wordpress.org/documentation/article/glossary/#site) by using the [multisite](https://wordpress.org/documentation/article/glossary/#multisite) feature. This article contains instructions for creating a multisite network. It is advised to read the post "[Before you Create a Network](https://developer.wordpress.org/advanced-administration/multisite/prepare-network/)" first, as it contains important information about planning your network.
